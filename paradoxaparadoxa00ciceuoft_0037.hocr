@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paradoxaparadoxa00ciceuoft_0037.png"; bbox 0 0 2392 4062; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 817 1517 1560 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 817 1517 1560 1588">
+     <span class='ocr_line' id='line_1_1' title="bbox 817 1517 1560 1588; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 817 1517 1560 1588; x_wconf 83' lang='lat' dir='ltr'><strong>ANIMADVERSIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 518 1819 1854 2149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 518 1819 1854 2149">
+     <span class='ocr_line' id='line_1_2' title="bbox 518 1819 1854 1937; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 518 1848 637 1936; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 732 1845 1133 1937; x_wconf 83' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_4' title='bbox 1218 1819 1854 1936; x_wconf 76' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 910 2074 1462 2149; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 910 2074 1462 2149; x_wconf 87' lang='lat' dir='ltr'><strong>PARADOXA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
